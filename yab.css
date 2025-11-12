@@ -5,7 +5,7 @@
 .Home-section{
     min-height: 100vh;
     width: 100%;
-    background-image:url(yab.jpg);
+    background-image:url( https://yeab123-et.github.io/mar/yab.jpg);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -80,7 +80,7 @@ position: relative;
 .About-section{
    min-height: 100vh;
     width: 100%;
-    background-image:linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url(abab.JPG);
+    background-image:linear-gradient(rgba(4, 9, 30, 0.7), rgba(4, 9, 30, 0.7)), url( https://yeab123-et.github.io/mar/abab.JPG);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -109,7 +109,7 @@ position: relative;
 .Skill-section{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(4, 9, 30, 0.7),rgba(4, 9, 30, 0.7)), url(skill1.JPG);
+    background-image: linear-gradient(rgba(4, 9, 30, 0.7),rgba(4, 9, 30, 0.7)), url( https://yeab123-et.github.io/mar/skill1.JPG);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -148,7 +148,7 @@ position: relative;
 .Contact-section{
     min-height: 45vh;
     width: 100%;
-    background-image: url(contactt.JPG);
+    background-image: url(https://yeab123-et.github.io/mar/contactt.JPG);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -245,7 +245,7 @@ position: relative;
 .Education-section{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(23, 24, 26, 0.7), rgba(4, 9, 30, 0.7)),url(education1.JPG);
+    background-image: linear-gradient(rgba(23, 24, 26, 0.7), rgba(4, 9, 30, 0.7)),url( https://yeab123-et.github.io/mar/education1.JPG);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -305,7 +305,7 @@ h1 {
 .Project-section{
 min-height: 100vh;
     width: 100%;
-    background-image:url(project.JPG);
+    background-image:url( https://yeab123-et.github.io/mar/project.JPG);
     background-position: center;
     background-size: cover;
     position: relative;
@@ -379,6 +379,7 @@ color:white;
     }
 
 }
+
 
 
 
